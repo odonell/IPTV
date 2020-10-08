@@ -1,0 +1,157 @@
+#EXTM3U
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/Movistar.png" tvg-id="ff23f8998fcf07dacda56e25945b958e",Movistar+
+http://192.168.1.150:9981/stream/channelid/435692543?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/La_1.png" tvg-id="f5cc3d7fa3811cb78cc59feaf7b5fa73" tvg-chno="1",La 1
+http://192.168.1.150:9981/stream/channelid/2134756597?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/La_2.png" tvg-id="0b28f3753cd8e7a29ed116a64b9a72b7" tvg-chno="2",La 2
+http://192.168.1.150:9981/stream/channelid/1978869771?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/Antena_3.png" tvg-id="a7376cc02ab175b8884825876a0de498" tvg-chno="3",Antena 3
+http://192.168.1.150:9981/stream/channelid/1080833959?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/Cuatro.png" tvg-id="7141c20747a515297af09562196291ea" tvg-chno="4",Cuatro
+http://192.168.1.150:9981/stream/channelid/130171249?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/Telecinco.png" tvg-id="7ed7a7df266799f29dfe225acd3f1bf0" tvg-chno="5",Telecinco
+http://192.168.1.150:9981/stream/channelid/1604835198?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/La_Sexta.png" tvg-id="d9daea8d5579adccd8b8ebe3745fff20" tvg-chno="6",La Sexta
+http://192.168.1.150:9981/stream/channelid/233495257?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/%230.png" tvg-id="559c51f44cf792f34f1670ba2e982e92" tvg-chno="7",#0
+http://192.168.1.150:9981/stream/channelid/1951505493?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/%23Vamos.png" tvg-id="62fd329e898c2dd1d6b279e0492fc9a7" tvg-chno="8",#Vamos
+http://192.168.1.150:9981/stream/channelid/506658146?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/TeleMadrid.png" tvg-id="9b483edefd00548297aeede983654efe" tvg-chno="9",TeleMadrid
+http://192.168.1.150:9981/stream/channelid/1581140123?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/LaOtra.png" tvg-id="d1f42685d643d5adb6df5a3f4acb3e5e" tvg-chno="10",La Otra
+http://192.168.1.150:9981/stream/channelid/86439121?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/Movistar_Series.png" tvg-id="e0260f24a3ba2556ac20dc9c1a675ef9" tvg-chno="11",Movistar Series
+http://192.168.1.150:9981/stream/channelid/604972768?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/Movistar_Seriesmania.png" tvg-id="01b2f112d26a942eed2c280ce12e1133" tvg-chno="12",Movistar Seriesmania
+http://192.168.1.150:9981/stream/channelid/317829633?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/FOX.png" tvg-id="0afdfc0f611be075f17b86c3a88e8bc5" tvg-chno="13",FOX
+http://192.168.1.150:9981/stream/channelid/268238090?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/AXN.png" tvg-id="e7548c5a810663694a01e1b46bdf8e4a" tvg-chno="14",AXN
+http://192.168.1.150:9981/stream/channelid/1519146215?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/TNT.png" tvg-id="d7ea83ca33ff5843e254b25379858617" tvg-chno="15",TNT
+http://192.168.1.150:9981/stream/channelid/1250159319?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/Comedy_Central.png" tvg-id="c16de7dc8a13571099fdf8baa7b94dce" tvg-chno="16",Comedy Central
+http://192.168.1.150:9981/stream/channelid/1558670785?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/Calle_13.png" tvg-id="d5e06ee2c193445c53659d2083cb4854" tvg-chno="17",Calle 13
+http://192.168.1.150:9981/stream/channelid/1651433685?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/AMC.png" tvg-id="32815312ed50ec7e1a1e3981ac46758a" tvg-chno="19",AMC
+http://192.168.1.150:9981/stream/channelid/307462450?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/FOX_Life.png" tvg-id="8b25752a5a355332c62c39269118b118" tvg-chno="20",FOX Life
+http://192.168.1.150:9981/stream/channelid/712320395?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/AXN_White.png" tvg-id="9cc853b8fa729aa07fa6b007d89dfd60" tvg-chno="21",AXN White
+http://192.168.1.150:9981/stream/channelid/945014940?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/MTV_Espana.png" tvg-id="f81234f5975a0d74f75ef78fe7131326" tvg-chno="24",MTV España
+http://192.168.1.150:9981/stream/channelid/1966347000?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/FDF.png" tvg-id="175b67048557c015dad85731d8d19c6d" tvg-chno="25",FDF
+http://192.168.1.150:9981/stream/channelid/73882391?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/Neox.png" tvg-id="95928b855e692c86ae2bce3b27ca163f" tvg-chno="26",Neox
+http://192.168.1.150:9981/stream/channelid/93033109?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/A3S.png" tvg-id="af7dfcb3e661d01707f0b0f3da0de3e7" tvg-chno="27",Atreseries
+http://192.168.1.150:9981/stream/channelid/872185263?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/Energy.png" tvg-id="4943f30c59c70ca3b54817e65638456e" tvg-chno="28",Energy
+http://192.168.1.150:9981/stream/channelid/217269065?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/Disney.png" tvg-id="60d7308dc44a20ee579c2a8e6b6c1d32" tvg-chno="32",Disney+
+http://192.168.1.150:9981/stream/channelid/221304672?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/TCM.png" tvg-id="b987e840095b8e5300fea2fd542fb52c" tvg-chno="37",TCM
+http://192.168.1.150:9981/stream/channelid/1088980921?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/Hollywood.png" tvg-id="1da5edeb1575b7e325edc0a88e425d3d" tvg-chno="38",Hollywood
+http://192.168.1.150:9981/stream/channelid/1810736413?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/13TV.png" tvg-id="8df197bb9e17c060da34c5ebf31f6c37" tvg-chno="41",13 TV
+http://192.168.1.150:9981/stream/channelid/999813517?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/Ten.png" tvg-id="3ae508102a67e54a56483ea5aa9ff1a5" tvg-chno="42",Ten
+http://192.168.1.150:9981/stream/channelid/269018426?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/Paramount_Network.png" tvg-id="0d9cc4d187d9125d8291c4ba2e4f1666" tvg-chno="43",Paramount Network
+http://192.168.1.150:9981/stream/channelid/1371839501?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/Multideporte.png" tvg-id="64b2404b9384d0364f094fcb5cb62027" tvg-chno="44",Multideporte
+http://192.168.1.150:9981/stream/channelid/1262531172?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/MLIGA.png" tvg-id="3ff0733f329e088c862a767c7258ca12" tvg-chno="46",M. LaLiga HD
+http://192.168.1.150:9981/stream/channelid/1064562751?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/MLIG1.png" tvg-id="d251bef29869da1ad33c19bf70ef6e11" tvg-chno="47",M. LaLiga 1 HD
+http://192.168.1.150:9981/stream/channelid/1925075410?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/MLIG2.png" tvg-id="7b14b9d77ef48df9de00fe188aa1b3e3" tvg-chno="48",M. LaLiga 2 HD
+http://192.168.1.150:9981/stream/channelid/1471747195?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/MLIG3.png" tvg-id="0ed4dea62aee61562936a27bedb570f2" tvg-chno="49",M. LaLiga 3 HD
+http://192.168.1.150:9981/stream/channelid/652137486?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/MCampeones.png" tvg-id="fee00f1e8ce25ad8485b6bfe26b3630f" tvg-chno="50",M.Liga de Campeones HD
+http://192.168.1.150:9981/stream/channelid/504357118?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/MCampeones01.png" tvg-id="77999b5243bff2d3cca72261e7b02ce0" tvg-chno="51",M.Liga de Campeones 1 HD
+http://192.168.1.150:9981/stream/channelid/1385929079?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/MCampeones02.png" tvg-id="2758dc27819bba92f39742fa90e6879c" tvg-chno="52",M.Liga de Campeones 2 HD
+http://192.168.1.150:9981/stream/channelid/668751911?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/RealMadrid_Television.png" tvg-id="c4de082db51dedb14cb31c2ac1ec7fe0" tvg-chno="53",Real Madrid TV
+http://192.168.1.150:9981/stream/channelid/755556036?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/UBEAT.png" tvg-id="857294f4286af052627af5f2103af9e4" tvg-chno="60",UBEAT
+http://192.168.1.150:9981/stream/channelid/1955885701?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/Eurosport_1.png" tvg-id="4f5b7006873cd95183b0b655d08e07f2" tvg-chno="61",Eurosport 1
+http://192.168.1.150:9981/stream/channelid/108026703?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/Eurosport_2.png" tvg-id="b997a1512ba6317f6078cf348ea11de1" tvg-chno="62",Eurosport 2
+http://192.168.1.150:9981/stream/channelid/1369544633?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/GOL.png" tvg-id="54152f1db47908d27f0a9350f41c9215" tvg-chno="63",GOL
+http://192.168.1.150:9981/stream/channelid/489624916?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/Teledeporte.png" tvg-id="6437a8b21565a10c398cc97d0b4403d5" tvg-chno="64",Teledeporte
+http://192.168.1.150:9981/stream/channelid/849885028?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/FUTREP.png" tvg-id="b64fe54ba1eb6466f11328ecf8d075c7" tvg-chno="65",Fútbol Replay
+http://192.168.1.150:9981/stream/channelid/1273319350?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/National_Geographic.png" tvg-id="e920764d7feebb485c88d91a99a01f75" tvg-chno="70",National Geographic
+http://192.168.1.150:9981/stream/channelid/1299587305?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/NAT_GEO_Wild.png" tvg-id="c616b62fb7b15af66607c2b1c35cd806" tvg-chno="71",NAT GEO Wild
+http://192.168.1.150:9981/stream/channelid/800462534?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/Historia.png" tvg-id="d914bbe65019e69176df3da6dfacc0c0" tvg-chno="72",Historia
+http://192.168.1.150:9981/stream/channelid/1723536601?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/Discovery_Channel.png" tvg-id="718f811eefa08283e30d21203296df6d" tvg-chno="73",Discovery Channel
+http://192.168.1.150:9981/stream/channelid/511807345?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/Viajar.png" tvg-id="59251bc825e2a5685ae3118d130fc288" tvg-chno="76",Viajar
+http://192.168.1.150:9981/stream/channelid/1209738585?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/DMAX.png" tvg-id="298b0f0aaf848b4401ec161a96aeb9ef" tvg-chno="77",DMax
+http://192.168.1.150:9981/stream/channelid/168790825?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/CrimenInvestigacion.png" tvg-id="306c5b9f8291507f341b906cc65b77ed" tvg-chno="78",Crimen + Investigación
+http://192.168.1.150:9981/stream/channelid/526085168?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/Canal_Cocina.png" tvg-id="ca7128f2f581d6426e68f6e34560d690" tvg-chno="80",Cocina
+http://192.168.1.150:9981/stream/channelid/1915253194?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/Decasa.png" tvg-id="4444b8640b14072c47c4091488cdd9b6" tvg-chno="81",Decasa
+http://192.168.1.150:9981/stream/channelid/1689797700?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/DKISS.png" tvg-id="4866f00f2fede80719e69213835fde0c" tvg-chno="82",DKISS
+http://192.168.1.150:9981/stream/channelid/267413064?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/Divinity.png" tvg-id="fe7060ec9e39ab0502cd66f2b0467a5c" tvg-chno="83",Divinity
+http://192.168.1.150:9981/stream/channelid/1818259710?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/Nova.png" tvg-id="31cea1398faf90f0dbc428e88a9814a1" tvg-chno="84",Nova
+http://192.168.1.150:9981/stream/channelid/966905393?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/MEGA.png" tvg-id="6457e0dba1dd0abb712645b94e6c027a" tvg-chno="85",MEGA
+http://192.168.1.150:9981/stream/channelid/1541429092?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/BeMad.png" tvg-id="88423e14ae63e2fc1d7b03846ce6eb4b" tvg-chno="86",BeMad
+http://192.168.1.150:9981/stream/channelid/339624584?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/Garage_TV.png" tvg-id="b6299852cc6516e27902159f9e71bc1a" tvg-chno="87",Garage TV
+http://192.168.1.150:9981/stream/channelid/1385703862?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/Disney_Junior.png" tvg-id="3ddc3c1b18a76413303a32f1c317f090" tvg-chno="91",Disney Junior
+http://192.168.1.150:9981/stream/channelid/456973373?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/Canal_Panda.png" tvg-id="06009749f0a5e476e78973e411a86121" tvg-chno="92",Canal Panda
+http://192.168.1.150:9981/stream/channelid/1234632710?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/Nick_Jr.png" tvg-id="d61c71b4b18ad1c345fa3e3c097f5f43" tvg-chno="93",Nick Jr
+http://192.168.1.150:9981/stream/channelid/879828182?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/Nickelodeon.png" tvg-id="cc48f91c01575dfcbdf0f7bd1d0d395f" tvg-chno="94",Nickelodeon
+http://192.168.1.150:9981/stream/channelid/486099148?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/Disney_Channel.png" tvg-id="20bad773c2e6705434a770c1a34d3faf" tvg-chno="96",Disney Channel
+http://192.168.1.150:9981/stream/channelid/1943517728?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/Boing.png" tvg-id="426703349ecbbfcfb84105e60a9b9068" tvg-chno="97",Boing
+http://192.168.1.150:9981/stream/channelid/872638274?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/Clan_TVE.png" tvg-id="dc1e261da098ed7357797f6febb4c237" tvg-chno="98",Clan TVE
+http://192.168.1.150:9981/stream/channelid/489037532?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/VH1.png" tvg-id="86463fa6993ef1235684c7e5947be9e7" tvg-chno="105",VH1
+http://192.168.1.150:9981/stream/channelid/641681030?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/24h.png" tvg-id="7b99da721c3e3b78447082b3fff00d3a" tvg-chno="112",24 Horas
+http://192.168.1.150:9981/stream/channelid/1926928763?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/MLIG4.png" tvg-id="f921745263b491b418133666544df37f" tvg-chno="176",M. LaLiga 4 HD
+http://192.168.1.150:9981/stream/channelid/1383342585?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/MLIG5.png" tvg-id="f00f2ea3ad2c257e68baf4a2e09b4435" tvg-chno="177",M. LaLiga 5 HD
+http://192.168.1.150:9981/stream/channelid/590221296?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/MLIG6.png" tvg-id="22c3ad655ebe8449d482a8bd88852b73" tvg-chno="178",M. LaLiga 6 HD
+http://192.168.1.150:9981/stream/channelid/1705886498?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/MLIG7.png" tvg-id="a2cc58028aaf91bc4020e9c5e882b1e5" tvg-chno="179",M. LaLiga 7 HD
+http://192.168.1.150:9981/stream/channelid/39373986?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/MLIG8.png" tvg-id="67d8e12708849bfd9a0985cdf0ebdc45" tvg-chno="180",M. LaLiga 8 HD
+http://192.168.1.150:9981/stream/channelid/669112423?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/MCampeones03.png" tvg-id="747a779be862de97215901a0fc00569f" tvg-chno="186",M.Liga de Campeones 3 HD
+http://192.168.1.150:9981/stream/channelid/460814964?profile=pass
+#EXTINF:-1 logo="https://raw.githubusercontent.com/odonell/IPTV/master/MCampeones04.png" tvg-id="9af0d8a8e7c4689d6757905bea3730a9" tvg-chno="187",M.Liga de Campeones 4 HD
+http://192.168.1.150:9981/stream/channelid/685306010?profile=pass
